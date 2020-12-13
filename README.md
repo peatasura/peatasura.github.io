@@ -1,4 +1,5 @@
-# 261207-Lab-01
+# 261207-Lab-02
+# this is lab 02
 ## HTML - Personal Web Site
 
 ให้นศ.สร้าง Personal Web site ด้วย HTML โดยต้องประกอบไปด้วยหน้าเว็บเพจอย่างน้อยคือ
